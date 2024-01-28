@@ -22,4 +22,7 @@ git push -uf gitlab-origin main
 
 ### Point 4 Slack notifications
 
-![Notification_slack_Github](https://github.com/ussnorma/Git.Hosting.03/blob/main/screnshots/Снимок%20экрана%202024-01-28%20в%2012.18.51.png?raw=true)
+![slack_app_Github](https://github.com/ussnorma/Git.Hosting.03/blob/main/screnshots/Снимок%20экрана%202024-01-28%20в%2012.18.51.png?raw=true)
+
+
+![Notification_slack_Github](https://github.com/ussnorma/Git.Hosting.03/blob/main/screnshots/Снимок%20экрана%202024-01-28%20в%2012.15.02.png?raw=true)
